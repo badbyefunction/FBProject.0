@@ -1,0 +1,279 @@
+@charset "utf-8";
+
+
+
+
+#inputField {
+	text-align:center;
+	width: 900px;
+}
+
+
+
+#goggles {
+	margin-left: 2px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	background-image: url('../img/3dglasses2.png'); 
+	background-repeat: no-repeat; 
+	width: 900px;
+	padding-top: 0px;
+	height: 254px;
+}
+
+#maleEye {
+	margin-left: 190px;
+	margin-top: 86px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	width: 132px;
+	padding-top: 0px;
+	height: 64px;
+	font-size:62px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+#femaleEye {
+	margin-right: 190px;
+	margin-top: 86px;
+	display: inline;
+	float: right;
+	margin-bottom: 0;
+	width: 113px;
+	padding-top: 0px;
+	height: 60px;
+	font-size:62px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+
+#acct1 {
+	display: table;
+	width:900px;
+}
+
+
+
+#goggles_sm1 {
+	margin-left: 93px;
+	
+	display: table-cell;
+	float: left;
+	margin-bottom: 0;
+	background-image: url('../img/3dglasses2sm.png'); 
+	background-repeat: no-repeat; 
+	width: 142px;
+	padding-top: 0px;
+	height: 39px;
+	
+}
+
+#maleEye_sm1 {
+	margin-left: 15px;
+	margin-top: 8px;
+	display: table-cell;
+	float: left;
+	margin-bottom: 0;
+	width: 27px;
+	padding-top: 0px;
+	height: 14px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+#femaleEye_sm1 {
+	margin-right: 20px;
+	margin-top: 8px;
+	ddisplay: table-cell;
+	float: right;
+	margin-bottom: 0;
+	width: 27px;
+	padding-top: 0px;
+	height: 14px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+#acct1_twID {
+	margin-top:8px;
+	display: table-cell;
+	padding-left: 20px;
+	float: left;
+	font-size:22px;
+	text-align:left;
+	color: #555;
+	width: 180px;	
+}
+
+#acct1_moreData {
+	margin-top:8px;
+	display: table-cell;
+	float: left;
+	font-size:22px;
+	text-align:left;
+	color: #555;
+	width: 380px;	
+}
+
+#acct2 {
+	display: table;
+	width:900px;
+}
+
+
+
+#goggles_sm2 {
+	margin-left: 93px;
+	
+	display: table-cell;
+	float: left;
+	margin-bottom: 0;
+	background-image: url('../img/3dglasses2sm.png'); 
+	background-repeat: no-repeat; 
+	width: 142px;
+	padding-top: 0px;
+	height: 39px;
+	
+}
+
+#maleEye_sm2 {
+	margin-left: 15px;
+	margin-top: 8px;
+	display: table-cell;
+	float: left;
+	margin-bottom: 0;
+	width: 27px;
+	padding-top: 0px;
+	height: 14px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+#femaleEye_sm2 {
+	margin-right: 20px;
+	margin-top: 8px;
+	ddisplay: table-cell;
+	float: right;
+	margin-bottom: 0;
+	width: 27px;
+	padding-top: 0px;
+	height: 14px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+#acct2_twID {
+	margin-top:8px;
+	display: table-cell;
+	padding-left: 20px;
+	float: left;
+	font-size:22px;
+	text-align:left;
+	color: #555;
+	width: 180px;	
+}
+
+#acct2_moreData {
+	margin-top:8px;
+	display: table-cell;
+	float: left;
+	font-size:22px;
+	text-align:left;
+	color: #555;
+	width: 380px;	
+}
+
+
+#acct3 {
+	display: table;
+	width:900px;
+}
+
+
+
+#goggles_sm3 {
+	margin-left: 93px;
+	
+	display: table-cell;
+	float: left;
+	margin-bottom: 0;
+	background-image: url('../img/3dglasses2sm.png'); 
+	background-repeat: no-repeat; 
+	width: 142px;
+	padding-top: 0px;
+	height: 39px;
+	
+}
+
+#maleEye_sm3 {
+	margin-left: 15px;
+	margin-top: 8px;
+	display: table-cell;
+	float: left;
+	margin-bottom: 0;
+	width: 27px;
+	padding-top: 0px;
+	height: 14px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+#femaleEye_sm3 {
+	margin-right: 20px;
+	margin-top: 8px;
+	ddisplay: table-cell;
+	float: right;
+	margin-bottom: 0;
+	width: 27px;
+	padding-top: 0px;
+	height: 14px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	color: #fff;
+}
+
+#acct3_twID {
+	margin-top:8px;
+	display: table-cell;
+	padding-left: 20px;
+	float: left;
+	font-size:22px;
+	text-align:left;
+	color: #555;
+	width: 180px;	
+}
+
+#acct3_moreData {
+	margin-top:8px;
+	display: table-cell;
+	float: left;
+	font-size:22px;
+	text-align:left;
+	color: #555;
+	width: 380px;	
+}
+
+
+
+
+
+
+
+
